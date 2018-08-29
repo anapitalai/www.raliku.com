@@ -1,0 +1,26 @@
+[{
+    "id": "1",
+    "name": "Papua Compound",
+    "price": 34.87,
+    "image": "/images/blue.png",
+    "status":"tenanted",
+    "description": "This property is a standalone 3 bedroom house",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "2",
+    "name": "Unitech",
+    "description": "2 bed sitters going at K2000 per month",
+    "price": 145.98,
+    "image": "/images/sl.JPG",
+    "status":"tenanted",
+    "url": "http://snipcart-hugo.netlify.com"
+},
+{
+    "id": "3",
+    "name": "Chinatown",
+    "description": "2 bed sitters",
+    "price": 145.98,
+    "image": "/images/sl.JPG",
+    "status":"vaccant",
+    "url": "http://snipcart-hugo.netlify.com"}
+]
